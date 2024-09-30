@@ -11,7 +11,7 @@ Bienvenue dans la Coopérative Digitale KenteCoop. Ce repository contient toute 
 ## Structure du Repository
 
 - **[Introduction](docs/introduction.md)** : Présentation de la coopérative et de ses objectifs
-- **Statuts** : Documents légaux et administratifs
+- **[Statuts](docs/statuts.md)** : Documents légaux et administratifs
 - **Gouvernance** : Structure de gouvernance et répartition des rôles
 - **Plan de Développement** : Stratégies de croissance et de formation
 - **Études de Cas** : Exemples de réussites et témoignages
